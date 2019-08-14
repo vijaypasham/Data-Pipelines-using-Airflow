@@ -16,4 +16,4 @@ We are provided JSON files that are in AWS S3 Bucket below are the 2 parts.
 
 **Log Dataset:** s3://udacity-dend/log_data Log Data
 
-
+![](https://raw.githubusercontent.com/vijaypasham/Data-Pipelines-using-Airflow/master/Files/DEND-logdata-20190814.png)
